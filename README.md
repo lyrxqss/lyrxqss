@@ -1,3 +1,3 @@
 ## live laugh love gojo
 
-![Image_Alt](https://github.com/lyrxqss/lyrxqss/blob/7a5122320ef57ca78c300350ad0f3821e5847644/indir%20(1).jpg)
+![Image_Alt](https://github.com/lyrxqss/lyrxqss/blob/bed9ae8b47887d20871f0ed80d500c9b42d024a9/%E2%98%86Korean%20reaction%20picture%E2%98%86.jpg)
