@@ -1,8 +1,2 @@
-## !!
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=cgo1nbhfibb223rkc10kxe6p1&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
-
-
-
-
+<p align="center">   <img width="460" height="300" src="https://github.com/lyrxqss/lyrxqss-2/blob/f5d22c3b0d8ad1b29c12c1ed57735c4758e87767/no-non.gif">
+</p>
