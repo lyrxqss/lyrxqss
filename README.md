@@ -20,4 +20,4 @@
 </p>
 
 
-[![Spotify](https://test-5fyr-8mgunxgq8-lyrxqss-projects.vercel.app/api/spotify)](https://https://open.spotify.com/user/cgo1nbhfibb223rkc10kxe6p1)
+[![Spotify](https://test-5fyr-8mgunxgq8-lyrxqss-projects.vercel.app/api/spotify)](https://open.spotify.com/user/cgo1nbhfibb223rkc10kxe6p1)
