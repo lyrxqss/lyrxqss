@@ -12,9 +12,10 @@
 
 <p align="center"> $\color{#323664}{\textsf{✦ ◜professional yapper!!😜}}$
 
+ 
 
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=ghismin&color=renk&label=freakys)
 
 
 
