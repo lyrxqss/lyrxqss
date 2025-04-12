@@ -10,13 +10,13 @@
 </p>
 
 
-<p align="center"> $\color{#f1b6ac}{\textsf{✦ ◜all i wanted was a cheeseburger!!}}$
+<p align="center"> $\color{#323664}{\textsf{✦ ◜professional yapper!!😜}}$
 
 
 
 
-<p align="center">   <img width="250x250" height="200" src=https://github.com/lyrxqss/lyrxqss-2/blob/f957247469940e656fe6126c4d56b13b319beae6/indir.gif>
-</p>
+
+
 
 
 
