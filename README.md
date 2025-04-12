@@ -15,7 +15,6 @@
  
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=ghismin&color=renk&label=freakys)
 
 
 
