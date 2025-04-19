@@ -6,7 +6,7 @@
 
 
 
-<p align="center">   <img width="450x450" height="400" src=https://github.com/lyrxqss/lyrxqss-2/blob/5387ac5de83518c88f8c5abd8837af5dcb212efb/sage-valorant.gif>
+<p align="center">   <img width="400x400" height="400" src=https://github.com/lyrxqss/lyrxqss-2/blob/5387ac5de83518c88f8c5abd8837af5dcb212efb/sage-valorant.gif>
 </p>
 
 
