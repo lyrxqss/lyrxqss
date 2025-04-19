@@ -14,7 +14,7 @@
 
  
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=lyrxqss&color=blue&label=delulus)
 
 
 
