@@ -10,7 +10,7 @@
 </p>
 
 
-<p align="center"> $\color{#323664}{\textsf{✦ ◜you had the same look in your eyes.}}$
+<p align="center"> $\color{#699d90}{\textsf{✦ ◜you had the same look in your eyes.}}$
 
  
 
