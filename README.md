@@ -6,7 +6,7 @@
 
 
 
-<p align="center">   <img width="450x450" height="400" src=https://github.com/lyrxqss/lyrxqss-2/blob/584b650288a7cf3b19f24eef0c0dc7fdce329264/Neon%20Valorant%20GIF%20-%20Neon%20Valorant%20Neon%20Valorant%20-%20Discover%20%26%20Share%20GIFs.gif>
+<p align="center">   <img width="450x450" height="400" src=https://github.com/lyrxqss/lyrxqss-2/blob/37eb1a3277f007d54ad810b714cdd824a902b28a/Stare%20Down%20GIF%20by%20Xbox%20-%20Find%20%26%20Share%20on%20GIPHY.gif>
 </p>
 
 
