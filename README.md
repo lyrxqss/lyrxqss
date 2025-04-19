@@ -10,7 +10,7 @@
 </p>
 
 
-<p align="center"> $\color{#323664}{\textsf{✦ ◜professional yapper!!😜}}$
+<p align="center"> $\color{#323664}{\textsf{✦ ◜you had the same look in your eyes.}}$
 
  
 
