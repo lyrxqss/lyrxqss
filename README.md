@@ -1,7 +1,7 @@
 <p align="center">   <img width="300x300" height="300" src=https://github.com/lyrxqss/lyrxqss-2/blob/584b650288a7cf3b19f24eef0c0dc7fdce329264/indir%20(8).gif>
 </p>
 
-
+────────────────────────────────────────────⋆⋅♡⋅⋆────────────────────────────────────────
 <p align="center">   <img width="400x400" height="400" src=https://github.com/lyrxqss/lyrxqss-2/blob/5387ac5de83518c88f8c5abd8837af5dcb212efb/sage-valorant.gif>
 </p>
 
