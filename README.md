@@ -6,7 +6,7 @@
 
 
 
-<p align="center">   <img width="450x450" height="400" src=https://github.com/lyrxqss/lyrxqss-2/blob/37eb1a3277f007d54ad810b714cdd824a902b28a/Stare%20Down%20GIF%20by%20Xbox%20-%20Find%20%26%20Share%20on%20GIPHY.gif>
+<p align="center">   <img width="450x450" height="400" src=https://github.com/lyrxqss/lyrxqss-2/blob/5387ac5de83518c88f8c5abd8837af5dcb212efb/sage-valorant.gif>
 </p>
 
 
