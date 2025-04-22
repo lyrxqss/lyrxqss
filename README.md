@@ -1,8 +1,8 @@
 <p align="center">   <img width="280x280" height="320" src=https://github.com/lyrxqss/lyrxqss-2/blob/584b650288a7cf3b19f24eef0c0dc7fdce329264/indir%20(8).gif>
 </p>
 
-────────────────────────────────────────────⋆⋅♡⋅⋆──────────────────────────────────────
-<p align="center">   <img width="400x400" height="400" src=https://github.com/lyrxqss/lyrxqss-2/blob/5387ac5de83518c88f8c5abd8837af5dcb212efb/sage-valorant.gif>
+
+<p align="center">   <img width="350x350" height="450" src=https://github.com/lyrxqss/lyrxqss-2/blob/f54ad99f7dbb65d78a393647c96c4b690fd6fede/indir%20(1).gif>
 </p>
 
 
@@ -23,3 +23,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=lyrxqss&color=blue&label=delulus)
 
 
+<p align="center">   <img width="500x500" height="500" src=https://github.com/lyrxqss/lyrxqss-2/blob/5ac34fe20134b8152b40e6115bad5231407a5cc3/ai%20hoshino%20nendoroid-Photoroom.png>
+</p>
