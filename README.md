@@ -1,7 +1,7 @@
 
 
 
-<p align="center">   <img width="540x540" height="600" src=https://github.com/lyrxqss/lyrxqss-2/blob/4ee483743731d978a12789361715b6855d6d19cf/Hanni%20(1)-Photoroom.png>
+<p align="center">   <img width="540x540" height="540" src=https://github.com/lyrxqss/lyrxqss-2/blob/4ee483743731d978a12789361715b6855d6d19cf/Hanni%20(1)-Photoroom.png>
 </p>
 
 
